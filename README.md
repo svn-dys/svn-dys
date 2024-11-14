@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svn-dys
-- 👀 I’m interested in: C++, JS
+- 👀 I’m interested in: C++ and math.
 
 
 <!---
